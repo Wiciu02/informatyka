@@ -3,7 +3,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url(triangular.png);
+    background-image: url(graphy.png);
     font-family: 'Texturina', serif;
     color: white;
     animation: ruch 300s linear infinite alternate;
